@@ -1,0 +1,8 @@
+flask
+flask-restful
+flask-pymongo
+gunicorn
+flask-restful
+flask-cors
+flask-jwt-extended
+requests
