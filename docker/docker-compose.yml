@@ -6,7 +6,7 @@ services:
     env_file:
       - "../src/backend/env/backend.env"
     build:
-      context: ../src/webapp 
+      context: ../src/backend 
       dockerfile: Dockerfile
     expose:
       - 5000
